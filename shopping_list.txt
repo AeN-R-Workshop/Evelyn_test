@@ -1,3 +1,5 @@
 pickles
 tomat
 milk
+cucumber
+peanuts
